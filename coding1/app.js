@@ -10,3 +10,5 @@ let johnBMI = massJohn/(heightJohn*2);
 let markHigherBMI = markBMI > johnBMI;
 
 console.log(markBMI, johnBMI, markHigherBMI);
+
+console.log("Thank You!");
